@@ -96,12 +96,12 @@ section a{
   color: black;
 }
 
-body>header.wrapper ul{
+body>header.cabc ul{
     color: #000;
     width: 90%;
     margin: auto;
 }
-body>header.wrapper ul li{
+body>header.cabc ul li{
     display: inline-block;
     text-transform: uppercase;
     padding-left: 10px;
@@ -111,15 +111,15 @@ body>header.wrapper ul li{
     color: #38B0DE;
 
 }
-body>header.wrapper ul li{
+body>header.cabc ul li{
     transition-duration: 0.4s;
         margin-top: 30px;
 }
-body>header.wrapper ul li:hover{
+body>header.cabc ul li:hover{
     transform: scale(1.1, 1.1);
 
 }
-body>header.wrapper div.logo{
+body>header.cabc div.logo{
     display: inline-block;
     margin: 8px;
     height: 60px;
@@ -127,7 +127,7 @@ body>header.wrapper div.logo{
     font-weight: bold;
     margin-top: 30px;
 }
-body>header.wrapper ul li.border-left{
+body>header.cabc ul li.border-left{
     border-left: 2px solid #BEBEBE;
 }
 body>div.bot{
